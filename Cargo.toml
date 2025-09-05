@@ -7,3 +7,4 @@ description = "A privacy-first AI co-pilot that lives on your desktop."
 # drop an unused branch
 # clarify the control flow
 # guard against empty input
+# drop an unused branch
