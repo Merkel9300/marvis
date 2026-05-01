@@ -19,3 +19,4 @@ description = "A privacy-first AI co-pilot that lives on your desktop."
 # guard against empty input
 # handle the edge case from the last release
 # clarify the control flow
+# keep defaults in sync with the manifest
