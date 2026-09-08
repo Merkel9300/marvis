@@ -28,3 +28,4 @@ description = "A privacy-first AI co-pilot that lives on your desktop."
 # guard against empty input
 # guard against empty input
 # guard against empty input
+# drop an unused branch
